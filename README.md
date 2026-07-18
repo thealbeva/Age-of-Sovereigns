@@ -1,2 +1,8 @@
 # Age-of-Sovereigns
-Age of Sovereigns is a persistent grand strategy MMO where kingdoms rise through diplomacy, logistics, and war. Command armies, forge alliances, lay siege to fortified cities, and shape a living world where every victory—and every betrayal—leaves its mark.
+Build your city. Command powerful armies. Rule as a Sovereign.
+
+Age of Sovereigns is a medieval kingdom-building strategy game where you transform a small settlement into a thriving empire. Construct buildings, gather resources, research new technologies, train specialized armies, and expand your influence across a persistent world filled with rival kingdoms.
+
+Forge alliances, strengthen your defenses, and wage strategic wars where planning, logistics, and battlefield tactics matter as much as raw military strength. Every decision—from city development to army composition—shapes your kingdom's future.
+
+Whether you choose diplomacy, economic prosperity, or conquest, your path to becoming a true Sovereign is yours to decide.
