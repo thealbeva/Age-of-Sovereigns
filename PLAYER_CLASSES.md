@@ -465,7 +465,7 @@ Some talents should appear in multiple specializations or classes when the milit
 
 Examples:
 
-- `Shielded Advance` can appear for Knight Retinue and Man-At-Arms Line, but with different follow-up nodes.
+- `Shielded Advance` can appear for Knight Bannerlord and Man-At-Arms Line, but with different follow-up nodes.
 - `Set Pikes` belongs primarily to Man-At-Arms, but anti-cavalry awareness nodes may appear in Ranger or Engineer defensive trees.
 - `Counter-Battery` belongs strongly to Engineer, but Ranger scouting can improve target identification.
 - `Pursuit` appears in Cavalry, Knight, and SellSword, but each uses it differently.
@@ -479,7 +479,7 @@ Each class has three specializations:
 
 | Class | Specialization 1 | Specialization 2 | Specialization 3 |
 | --- | --- | --- | --- |
-| Knight | Shock | Retinue | Honor |
+| Knight | Shock | Bannerlord | Honor |
 | Man-At-Arms | Line | Pike | Breach Defense |
 | Engineer | Siegecraft | Fortification | Counter-Siege |
 | Ranger | Scouting | Deception | Archery |
@@ -535,7 +535,7 @@ Detailed expanded Knight class-tree notes live in `KNIGHT_TALENT_TREE.md`.
 Knight has three branches:
 
 - `Shock`
-- `Retinue`
+- `Bannerlord`
 - `Honor`
 
 ### Shock Branch
@@ -552,19 +552,19 @@ Focuses on Heavy Cavalry, charge timing, morale damage, and decisive commitment.
 | 4 | Shock Reserve | `3/3` | `+2%` Heavy Cavalry effectiveness when committed after battle begins per rank |
 | 5 | Oath Charge | `1/1` | Unlocks committed charge tactic with higher reward and higher risk |
 
-### Retinue Branch
+### Bannerlord Branch
 
-Focuses on Heavy Infantry, breach follow-through, and elite armored pressure.
+Focuses on alliance standards, nearby formation support, household retinue routes, and elite armored pressure.
 
 | Tier | Talent | Cap | Effect |
 | --- | --- | ---: | --- |
-| 1 | Armored Core | `5/5` | `+1%` Heavy Infantry attack during offensive breach actions per rank |
-| 1 | Retinue Drill | `3/3` | `+1%` Heavy Infantry cohesion while attacking per rank |
-| 2 | Breach Momentum | `5/5` | `+1%` morale pressure after a wall or gate breach per rank |
-| 2 | Close Guard | `3/3` | `-1%` permanent-loss share for Heavy Infantry after a successful breach per rank |
-| 3 | Noble Retinue | `1/1` | Unlocks `Noble Retinue` tactic |
-| 4 | Press The Breach | `3/3` | `+2%` Heavy Infantry pressure while enemy breach defense is wavering per rank |
-| 5 | Iron Household | `1/1` | Heavy Infantry retain more cohesion during the first breach phase |
+| 1 | Raise The Standard | `1/1` | Unlocks Bannerlord specialization support around the battle standard |
+| 1 | Noble Standard | `3/3` | Allied formations beside or behind your banner gain `+1%` Defense per rank |
+| 2 | Household Guard | `3/3` | Heavy Infantry and Heavy Cavalry near your banner gain `+1%` Health per rank |
+| 2 | Hold The Line | `3/3` | Allied infantry beside your banner gain `+1%` Defense per rank while holding |
+| 3 | Noble Retinue | `1/1` | Unlocks `Noble Retinue` tactic as a Bannerlord route |
+| 4 | Breakout Horns | `2/2` | Allied formations gain `+1%` Attack per rank during coordinated breakout or relief |
+| 5 | The King's Banner | `1/1` | Major alliance battles gain stronger nearby allied Attack and Defense while the banner stands |
 
 ### Honor Branch
 
