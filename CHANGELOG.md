@@ -1,6 +1,30 @@
-# Changelog
+hangelog
 
 This changelog tracks major design and prototype changes for the game.
+
+## 2026-07-19
+
+### Knight Talent Hardening
+
+- Finalized the Knight specialization names as:
+  - Shock
+  - Bannerlord
+  - Honor
+- Reframed `Retinue` as a Bannerlord build route instead of the middle specialization name.
+- Added Knight point budget V1:
+  - `31` shared class points
+  - `60` specialization points
+  - separate class-tree and specialization-tree row gates
+- Added Knight unlock rules for connected prerequisites, side-path movement, choice nodes, and capstone access.
+- Expanded `KNIGHT_TALENT_TREE.md` with a full V1 shared Knight class tree.
+- Expanded the Knight specialization design with full V1 trees for Shock, Bannerlord, and Honor.
+- Added route identities for each Knight spec:
+  - Shock: Lance Breaker, Armored Hammer, Breach Shock, Reserve Commitment, All-In Oath
+  - Bannerlord: Royal Standard, Household Retinue, Line Anchor, Relief Commander, Last Stand
+  - Honor: Oathbound, Public Challenge, Mercy And Ransom, Fear And Punishment, Defender's Vow
+- Updated `PLAYER_CLASSES.md` so the Knight overview uses Bannerlord instead of Retinue as the specialization name.
+- Updated `knight-talent-ui.html` to use Bannerlord as the middle spec tab.
+- Added separate class and specialization row-gate logic to the Knight talent UI.
 
 ## 2026-07-16
 
@@ -187,7 +211,7 @@ This changelog tracks major design and prototype changes for the game.
 
 - Added `knight-talent-ui.html` as a playable talent-tree mockup.
 - Added separate Knight class points and specialization points.
-- Added Shock, Retinue, and Honor specialization tabs.
+- Added the first Shock, Retinue, and Honor specialization tabs; Retinue was later reframed as Bannerlord.
 - Added click-to-inspect behavior.
 - Added double-click to spend a point.
 - Added right-click to refund a point.
